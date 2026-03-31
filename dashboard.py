@@ -271,7 +271,7 @@ f3.markdown(
 # SIDEBAR – REGION & DATE FILTERS
 # ==============================
 with st.sidebar:
-    st.title("Global Controls")
+    st.title("Mayank Sharma")
 
     # choose region
     selected_region = st.selectbox("Region", regions)
